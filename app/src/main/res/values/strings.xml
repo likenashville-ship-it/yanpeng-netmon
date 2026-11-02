@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">网络占用</string>
+    <string name="refresh">刷新</string>
+    <string name="tab_live">实时</string>
+    <string name="tab_history">记录</string>
+    <string name="empty">暂无流量。请先授权「使用情况访问」，并打开会联网的应用。</string>
+    <string name="empty_history">暂无记录。授权后点「开始记录」，等待 1～2 分钟。</string>
+    <string name="need_usage">未授权「使用情况访问权限」。点上方按钮去系统设置打开「网络占用」开关，否则无法统计各应用流量。</string>
+    <string name="hint">顶部总览可点「展开/收起」（默认折叠并记住）。流量来自 NetworkStats。系统对三方应用隐藏 VPN UID 名单，安装/更新后需 ADB 同步一次才能区分「经 Clash / 直连」；套接字可读时再显示远端。数据仅本机。</string>
+    <string name="notif_channel">网络占用记录</string>
+    <string name="notif_title">正在记录网络占用</string>
+    <string name="start_record">开始记录</string>
+    <string name="stop_record">停止记录</string>
+    <string name="clear_history">清空记录</string>
+    <string name="interval">采样间隔</string>
+    <string name="grant_usage">授权用量访问</string>
+    <string name="app_detail">应用联网详情</string>
+</resources>

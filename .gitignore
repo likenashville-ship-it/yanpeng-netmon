@@ -1,0 +1,17 @@
+.gradle/
+**/build/
+local.properties
+*.iml
+.idea/
+.DS_Store
+captures/
+*.apk
+*.aab
+*.ap_
+*.dex
+*.class
+.cxx/
+externalNativeBuild/
+
+# Local release binaries (attach via GitHub Releases only)
+release-assets/
